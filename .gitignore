@@ -1,0 +1,11 @@
+# Model binaries (exceed 100MB GitHub limit and trained via scripts)
+*.keras
+*.h5
+*.zip
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
